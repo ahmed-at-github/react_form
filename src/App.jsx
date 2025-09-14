@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      <h1>Hello World! Iam App</h1>
+      <h1>A form for your basic information</h1>
       <FormComp />
     </>
   )
